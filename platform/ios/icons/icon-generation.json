@@ -1,0 +1,7 @@
+{
+  "generator": "built-in imagegen",
+  "prompt": "Use case: stylized-concept. Create a premium, badass square iOS app icon for a custom A Link to the Past port. Reference image role: inspiration only, use the shield, vertical sword and huge red Z emblem shown on the right, not the browser UI or full title text. Center a bold crimson enamel metallic Z over a battle-worn silver and deep blue medieval shield with gold rivets and a luminous gold Triforce motif. A polished sword runs vertically behind the Z, hilt at top, blade downward. Dramatic cinematic rim light, rich ruby red, cool steel and warm gold, deep near-black emerald background with subtle restrained magical glow. Sculpted high-end illustrated game emblem, crisp strong silhouettes and readable at small home-screen size, symmetrical balanced composition. Single icon only, full bleed opaque square background; do not draw a rounded rectangle border (iOS masks corners). Keep emblem within central 85 percent. No words beyond the single Z, no UI, no watermark. Reference is attached screenshot, reinterpret with polished original detailing.",
+  "reference": "/tmp/codex-remote-attachments/01a17aaa-dcf2-73f1-8062-25d1de1612fe/E72FED15-383F-4521-A620-537DEB8525AB/1-Photo-1.jpg",
+  "master": "shield-sword-source.png",
+  "packaging": "Opaque RGB PNG; Pillow LANCZOS resizing for iOS icon slots"
+}

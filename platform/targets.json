@@ -1,0 +1,30 @@
+{
+  "macOS_arm64": "Packaged, boot and 13 chapter smoke checks passed; live opening observed",
+  "Windows": "CMake configuration added; build not tested",
+  "iOS_iPadOS": "v0.2.0 universal IPA built; simulator engine/save checks pass; physical testing pending",
+  "Android": "Pending mobile integration and toolchain",
+  "Palm_OS_5": {
+    "devices": [
+      "Tungsten E",
+      "Tungsten E2",
+      "TX",
+      "T5",
+      "T3"
+    ],
+    "status": "26 selected core units compile to ARM objects with temporary compatibility declarations and typedef guard. No runtime implementations, linked application, or PRC yet."
+  },
+  "legacy_Palm": {
+    "devices": [
+      "m515",
+      "IIIc"
+    ],
+    "status": "Experimental; feasibility not established"
+  },
+  "Pocket_PC_WM5_WM6": "Awaiting device models; backend and toolchain pending",
+  "priority": [
+    "iOS/iPadOS",
+    "Palm OS 5",
+    "Palm m515/IIIc",
+    "other platforms"
+  ]
+}
